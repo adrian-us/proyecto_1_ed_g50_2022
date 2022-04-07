@@ -1,0 +1,50 @@
+San Jose;San Jose;San Jose;Alberto;67478322
+El Carmen;San Jose;San Jose;Bernardo;84545371
+Merced;San Jose;San Jose;Camila;57317350
+Hatillo;San Jose;San Jose;Cristian;19121577
+San Rafael Arriba;Desamparados;San Jose;Caleb;49911559
+San Antonio;Desamparados;San Jose;Daniel;27447430
+Patarra;Desamparados;San Jose;Diego;88663737
+Desamparaditos;Puriscal;San Jose;Eduardo;36019099
+San Antonio;Puriscal;San Jose;Emilia;85779592
+Tarbaca;Aserri;San Jose;Enrique;80691696
+Purral;Goicoechea;San Jose;Esteban;84666795
+Alajuelita;Alajuelita;San Jose;Eugenia;29417340
+Leon XIII;Tibas;San Jose;Fabio;97705263
+San Vicente;Moravia;San Jose;Fabiola;59135220
+San Pedro;Montes de Oca;San Jose;Gabriel;44043675
+Mercedes;Montes de Oca;San Jose;Hugo;76706648
+Curridabat;Curridabat;San Jose;Irene;67898453
+San Isidro de El General;Perez Zeledon;San Jose;Jaime;70679933
+San Ramon;San Ramon;Alajuela;Javier;30206241
+Fortuna;San Carlos;Alajuela;Joaquin;77129362
+Zarcero;Alfaro Ruiz;Alajuela;Jonathan;66936670
+Upala;Upala;Alajuela;Juana;60142848
+Los Chiles;Los Chiles;Alajuela;Julia;25920164
+Tierra Blanca;Cartago;Cartago;Laura;58913938
+Llano Grande;Cartago;Cartago;Lidia;61705642
+Cachi;Paraiso;Cartago;Lucas;43215521
+Cot;Oreamuno;Cartago;Luisa;83465127
+El Tejar;El Guarco;Cartago;Luz;72294410
+San Jose de la Montana;Barva;Heredia;Manuel;73301619
+San Francisco;San Isidro;Heredia;Marcelo;74653094
+San Antonio;Belen;Heredia;Mariano;92547834
+Asuncion;Belen;Heredia;Marta;35371032
+San Joaquin;Flores;Heredia;Mateo;72777428
+Horquetas;Sarapiqui;Heredia;Natalia;34903520
+Belen de Nosarita;Nicoya;Guanacaste;Noelia;20413513
+Santa Cruz;Santa Cruz;Guanacaste;Paula;25051207
+Canas;Canas;Guanacaste;Pedro;83658458
+Paquera;Puntarenas;Puntarenas;Priscila;20471709
+Barranca;Puntarenas;Puntarenas;Roberto;30338426
+Agua Buena;Coto Brus;Puntarenas;Rogelio;52894626
+Limoncito;Coto Brus;Puntarenas;Rosalia;21555002
+Parrita;Parrita;Puntarenas;Sandra;55992720
+Jaco;Garabito;Puntarenas;Santiago;17568167
+Tarcoles;Garabito;Puntarenas;Sara;24898523
+Guapiles;Pococi;Limon;Sebastian;35727952
+Cariari;Pococi;Limon;Sergio;58475759
+Siquirres;Siquirres;Limon;Sofia;18029010
+Florida;Siquirres;Limon;Vanesa;10549307
+Cahuita;Talamanca;Limon;Yolanda;51726935
+Matina;Matina;Limon;Zacarias;82650327

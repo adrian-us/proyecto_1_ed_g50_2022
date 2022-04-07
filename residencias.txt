@@ -1,0 +1,50 @@
+San Jose;San Jose;San Jose
+El Carmen;San Jose;San Jose
+Merced;San Jose;San Jose
+Hatillo;San Jose;San Jose
+San Rafael Arriba;Desamparados;San Jose
+San Antonio;Desamparados;San Jose
+Patarra;Desamparados;San Jose
+Desamparaditos;Puriscal;San Jose
+San Antonio;Puriscal;San Jose
+Tarbaca;Aserri;San Jose
+Purral;Goicoechea;San Jose
+Alajuelita;Alajuelita;San Jose
+Leon XIII;Tibas;San Jose
+San Vicente;Moravia;San Jose
+San Pedro;Montes de Oca;San Jose
+Mercedes;Montes de Oca;San Jose
+Curridabat;Curridabat;San Jose
+San Isidro de El General;Perez Zeledon;San Jose
+San Ramon;San Ramon;Alajuela
+Fortuna;San Carlos;Alajuela
+Zarcero;Alfaro Ruiz;Alajuela
+Upala;Upala;Alajuela
+Los Chiles;Los Chiles;Alajuela
+Tierra Blanca;Cartago;Cartago
+Llano Grande;Cartago;Cartago
+Cachi;Paraiso;Cartago
+Cot;Oreamuno;Cartago
+El Tejar;El Guarco;Cartago
+San Jose de la Montaoa;Barva;Heredia
+San Francisco;San Isidro;Heredia
+San Antonio;Belen;Heredia
+Asuncion;Belen;Heredia
+San Joaquin;Flores;Heredia
+Horquetas;Sarapiqui;Heredia
+Belen de Nosarita;Nicoya;Guanacaste
+Santa Cruz;Santa Cruz;Guanacaste
+Caoas;Caoas;Guanacaste
+Paquera;Puntarenas;Puntarenas
+Barranca;Puntarenas;Puntarenas
+Agua Buena;Coto Brus;Puntarenas
+Limoncito;Coto Brus;Puntarenas
+Parrita;Parrita;Puntarenas
+Jaco;Garabito;Puntarenas
+Tarcoles;Garabito;Puntarenas
+Guapiles;Pococi;Limon
+Cariari;Pococi;Limon
+Siquirres;Siquirres;Limon
+Florida;Siquirres;Limon
+Cahuita;Talamanca;Limon
+Matina;Matina;Limon

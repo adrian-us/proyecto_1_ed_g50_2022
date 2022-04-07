@@ -1,0 +1,10 @@
+Primaria
+Secundaria
+Tecnico medio
+Tecnico
+Diplomado
+Bachillerato
+Licenciatura
+Maestria
+Doctorado
+Post-doctorado

@@ -1,0 +1,4 @@
+Deporte;Actividad fisica, ejercida como juego o competicion
+Entretenimiento;Actividades de ocio con el fin de entretenerse
+Internet;Actividades relacionadas al uso del internet
+Trabajo;Actividades que representan una remuneracion a cambio de esfuerzo

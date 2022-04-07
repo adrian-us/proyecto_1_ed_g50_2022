@@ -1,0 +1,20 @@
+Deporte;Natacion;Deporte el cual se nada
+Deporte;Tennis;Deporte que cuenta con dos raquetas y una bola
+Deporte;Futbol;Deporte que se juega con las piernas y un balon
+Deporte;Ciclismo;Deporte que involucra el uso de bicicletas
+Deporte;Boxeo;Deporte de contacto fisico y se permiten golpes
+Deporte;Karate;Arte marcial defensiva japonesa
+Entretenimiento;Escuchar musica;Accion de escuchar musica
+Entretenimiento;Netflix;Plataforma de streaming de series y peliculas
+Entretenimiento;Cine;Ver una pelicula en una sala de cine
+Entretenimiento;Bar;Ir a un bar
+Entretenimiento;Bailar;Movimientos con el cuerpo, brazos y pies
+Internet;Correo;Leer,responder y organizar correos electronicos
+Internet;Instagram;Red social de fotos
+Internet;Youtube;Plataforma de videos en linea
+Internet;Whatsapp;Red social de mensajeria
+Internet;Facebook Marketplace;Red social de venta y compra
+Trabajo;Estudiar;Ejercitar el entendimiento
+Trabajo;Trabajo;Realizar trabajo personal
+Trabajo;Ama de casa;Realizar tareas domesticas
+Trabajo;Transportarse al trabajo;Movilizarse al trabajo
